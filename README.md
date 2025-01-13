@@ -19,9 +19,9 @@
 
 # 🌀 [dotsfile](https://github.com/giicoo/dotsfiles)
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="40">
-   <img src="https://github.com/user-attachments/assets/1019bb95-2e83-4060-a49b-37485f43821e" height="180">
-   <img src="https://github.com/user-attachments/assets/b8e801de-eaeb-4d1c-a45b-d112562040b3" height="180">
-   <img src="https://github.com/user-attachments/assets/f1790509-294e-4d16-b4b3-f39062a5e108" height="180">
+   <img src="https://github.com/user-attachments/assets/1019bb95-2e83-4060-a49b-37485f43821e" height="150">
+   <img src="https://github.com/user-attachments/assets/b8e801de-eaeb-4d1c-a45b-d112562040b3" height="150">
+   <img src="https://github.com/user-attachments/assets/f1790509-294e-4d16-b4b3-f39062a5e108" height="150">
 
 ## about
 - 🌍 **Люблю**: _Программирование, Linux, Музыку, [Фотографии](https://t.me/archive_42)_
